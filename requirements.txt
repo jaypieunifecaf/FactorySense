@@ -1,0 +1,15 @@
+# FactorySense - Dependências do Projeto
+#
+# Este projeto utiliza apenas a biblioteca padrão do Python (stdlib),
+# portanto não há dependências externas necessárias.
+#
+# Versão mínima do Python: 3.7+
+#
+# Para ambientes de desenvolvimento, você pode adicionar:
+# - pytest (para testes unitários)
+# - black (para formatação de código)
+# - pylint (para análise estática)
+# - mypy (para verificação de tipos)
+#
+# Exemplo de instalação de dependências de desenvolvimento:
+# pip install pytest black pylint mypy
